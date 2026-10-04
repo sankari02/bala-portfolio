@@ -273,9 +273,6 @@ function Expertise() {
       "Branding",
       "Graphic Design",
       "Campaign Management",
-      "Microsoft Excel",
-      "SQL",
-      "Database Management",
     ].map((skill, index) => (
       <div
         className="expertise-skill-chip"
